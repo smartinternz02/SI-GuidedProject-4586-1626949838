@@ -6,7 +6,7 @@
 ## 3. Pranav Prakasan
 ## 4. Prishita Raj
 
-# TOPIC: Lung Cancer Detection
+# TOPIC: PATHOLOGY IMAGE ANALYSIS FOR LUNG CANCER PREDICTION
 
 # LINK
 https://drive.google.com/drive/folders/1gt6FC_6wCLC2iSfL-SasB5XHWJSxZVu4 
